@@ -3,3 +3,8 @@
 ################################################################################
 
 /CGISamples/Client/bin/Debug/net5.0
+/CGISamples/Client/obj
+/CGISamples/Server/obj
+/CGISamples/Server/bin/Debug/net5.0
+/CGISamples/Shared/bin/Debug/net5.0
+/CGISamples/Shared/obj
